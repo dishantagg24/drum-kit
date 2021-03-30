@@ -32,4 +32,4 @@ Or Download and extract the zip file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aman-atg/The-Great-RGB-Guessing-Game/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dishantagg24/drum-kit/blob/master/LICENSE) file for details
