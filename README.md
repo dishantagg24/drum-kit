@@ -30,3 +30,6 @@ Or Download and extract the zip file.
 
 * **[Dishant Aggarwal](https://github.com/dishantagg24)**
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aman-atg/The-Great-RGB-Guessing-Game/blob/master/LICENSE) file for details
